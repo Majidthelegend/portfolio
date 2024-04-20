@@ -1,0 +1,20 @@
+:root{
+    --mainColor: #e1e1e1;
+    --secondaryColor: #fff;
+
+    --borderColor: #c1c1c1;
+
+    --mainText:black;
+    --secondaryText: #4b5156;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6, strong{
+    color: var(--mainText);
+}
+p, label, span, label, input, textarea{
+    color: var()
+}
